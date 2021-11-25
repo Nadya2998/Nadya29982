@@ -1,8 +1,8 @@
-'use strict'
+'use strict';
 
-let door = 'Дверь';
-let estimation = '1000';
-let result = `${door}, цена ${estimation} рублей`;
+const Door = 'Дверь';
+const estimation = '1000';
+const result = `${Door}, цена ${estimation} рублей`;
 alert(result);
 
 function number (min, max) {
