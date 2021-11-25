@@ -1,11 +1,11 @@
-"use strict"
+'use strict'
 
-let product = "Дверь";
-let prise = "1000";
-let c = `${product}, цена ${prise} рублей`;
-alert(c);
+let door = 'Дверь';
+let estimation = '1000';
+let result = `${door}, цена ${estimation} рублей`;
+alert(result);
 
-function number(min, max) {
+function number (min, max) {
   if (min >= max) {
   // eslint-disable-next-line
   console.log('ошибочка вышла');
