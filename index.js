@@ -1,5 +1,4 @@
 'use strict'
-
 let door = 'Дверь';
 let estimation = '1000';
 let result = `${door}, цена ${estimation} рублей`;
