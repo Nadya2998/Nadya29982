@@ -15,4 +15,3 @@ function number (min, max) {
   }
 }
 number(5, 15);
-
