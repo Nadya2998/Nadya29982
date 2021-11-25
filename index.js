@@ -1,4 +1,5 @@
 'use strict'
+
 let door = 'Дверь';
 let estimation = '1000';
 let result = `${door}, цена ${estimation} рублей`;
@@ -14,3 +15,4 @@ function number (min, max) {
   }
 }
 number(5, 15);
+
